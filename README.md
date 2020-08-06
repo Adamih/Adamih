@@ -39,7 +39,7 @@
 
 ---
 
-<img align=left alt="Adam Henriksson's Github stats" src="https://github-readme-stats.vercel.app/api?username=Adamih&show_icons=true&hide_border=true" />
+<img align=left alt="Adam Henriksson's Github stats" src="https://github-readme-stats.vercel.app/api?username=Adamih&show_icons=true&hide_border=true&bg_color=#fff" />
 
 [twitter]: https://twitter.com/AdamHenriksson5/
 [linkedin]: https://www.linkedin.com/in/adahen/
