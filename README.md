@@ -1,6 +1,6 @@
 ### Hi there, i'm Adam 👋
 
-## I'm a student developer at KTH - Royal Institute of Technology
+## I'm a CS student at KTH - Royal Institute of Technology
 
 - 🌱 I'm currently learning everything
 - 👷 Working on personal and engaging projects
