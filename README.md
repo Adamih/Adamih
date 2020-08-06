@@ -5,9 +5,9 @@
 - 🌱 I'm currently learning everything
 - 👷 Working on personal and engaging projects
 - 🎯 2020 Goals: 
-    * Read new books every month
-    * Contribute to open source
-    * Advertise
+    * Read new books every month 📖
+    * Contribute to open source 🐧
+    * Advertise 🙌
 - 💡 Fun fact: I love chess and board games 🎲
 
 ### Connect with me:
