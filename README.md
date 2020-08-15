@@ -1,49 +1,49 @@
-### Hi there, i'm Adam 👋
+1. ❌ Closed PR [#1](https://github.com//Adamih/vue-express-project/pull/1) in [Adamih/vue-express-project](https://github.com//Adamih/vue-express-project)
 
-## I'm a CS student at KTH Royal Institute of Technology
+2. 🎉 Merged PR [#482](https://github.com//armada-ths/armada.nu/pull/482) in [armada-ths/armada.nu](https://github.com//armada-ths/armada.nu)
 
-- 🌱 I'm currently learning everything
-- 👷 Working on personal and engaging projects
-- 🎯 2020 Goals: 
-    * Read new books every month 📖
-    * Contribute to open source 🐧
-    * Advertise 🙌
-- 💡 Fun fact: I love chess and board games 🎲
+3. 🎉 Merged PR [#481](https://github.com//armada-ths/armada.nu/pull/481) in [armada-ths/armada.nu](https://github.com//armada-ths/armada.nu)
+4. 🎉 Merged PR [#478](https://github.com//armada-ths/armada.nu/pull/478) in [armada-ths/armada.nu](https://github.com//armada-ths/armada.nu)
+5. undefined
+6. undefined
+7. undefined
+8. undefined
+9. undefined
 
-### Connect with me:
+10. undefined
 
-[<img align="left" alt="Adam Henriksson | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Adam Henriksson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Adam Henriksson | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+11. undefined
+12. undefined
+13. undefined
 
-<br />
-<br />
+14. undefined
+15. undefined
 
-### Language and Tools:
+16. undefined
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/gatsby/gatsby.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/deno/deno.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+17. undefined
+18. undefined
+19. undefined
+20. undefined
+21. undefined
+22. undefined
+23. undefined
 
-<br />
-<br />
+24. undefined
+25. undefined
 
----
+26. undefined
 
-<details>
-   <summary>:zap: Recent Activity</summary>
-    <!--START_SECTION:activity-->
-</details>
+27. undefined
+28. undefined
+29. undefined
+30. undefined
 
-<details>
-   <summary>:zap: Github Stats</summary>
-<img align=left alt="Adam Henriksson's Github stats" src="https://github-readme-stats.vercel.app/api?username=Adamih&show_icons=true&hide_border=true&bg_color=fff" />
-</details>
+31. undefined
+32. undefined
+33. undefined
+34. undefined
 
-[twitter]: https://twitter.com/AdamHenriksson5/
-[linkedin]: https://www.linkedin.com/in/adahen/
-[instagram]: https://www.instagram.com/adamih/
+35. undefined
+36. undefined
+37. undefined
