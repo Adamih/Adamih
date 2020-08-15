@@ -10,6 +10,8 @@
     * Advertise
 - 💡 Fun fact: I love chess and board games 🎲
 
+### Currently I am listening to:
+
 <a href="https://now-playing-profile-khaki.vercel.app/now-playing?open">
     <img src="https://now-playing-profile-khaki.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
 </a>
