@@ -1,49 +1,37 @@
-1. ❌ Closed PR [#1](https://github.com//Adamih/vue-express-project/pull/1) in [Adamih/vue-express-project](https://github.com//Adamih/vue-express-project)
+### Hi there, i'm Adam 👋
 
-2. 🎉 Merged PR [#482](https://github.com//armada-ths/armada.nu/pull/482) in [armada-ths/armada.nu](https://github.com//armada-ths/armada.nu)
+## I'm a student developer at KTH - Royal Institute of Technology
 
-3. 🎉 Merged PR [#481](https://github.com//armada-ths/armada.nu/pull/481) in [armada-ths/armada.nu](https://github.com//armada-ths/armada.nu)
-4. 🎉 Merged PR [#478](https://github.com//armada-ths/armada.nu/pull/478) in [armada-ths/armada.nu](https://github.com//armada-ths/armada.nu)
-5. undefined
-6. undefined
-7. undefined
-8. undefined
-9. undefined
+- 🌱 I'm currently learning everything
+- 👷 Working on personal and engaging projects
+- 🎯 2020 Goals: 
+    * Read new books every month
+    * Contribute to open source
+    * Advertise
+- 💡 Fun fact: I love chess and board games 🎲
 
-10. undefined
+### Connect with me:
 
-11. undefined
-12. undefined
-13. undefined
+[<img align="left" alt="Adam Henriksson | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Adam Henriksson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Adam Henriksson | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-14. undefined
-15. undefined
+### Language and Tools:
 
-16. undefined
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/deno/deno.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-17. undefined
-18. undefined
-19. undefined
-20. undefined
-21. undefined
-22. undefined
-23. undefined
+<br />
+<br />
 
-24. undefined
-25. undefined
+---
 
-26. undefined
+<img align=left alt="Adam Henriksson's Github stats" src="https://github-readme-stats.vercel.app/api?username=Adamih&show_icons=true" />
 
-27. undefined
-28. undefined
-29. undefined
-30. undefined
-
-31. undefined
-32. undefined
-33. undefined
-34. undefined
-
-35. undefined
-36. undefined
-37. undefined
+[twitter]: https://twitter.com/AdamHenriksson5/
+[linkedin]: https://www.linkedin.com/in/adahen/
+[instagram]: https://www.instagram.com/adamih/
