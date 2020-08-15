@@ -28,9 +28,18 @@
 <br />
 <br />
 
----
+<a href="https://now-playing-profile-khaki.vercel.app/now-playing?open">
+    <img src="https://now-playing-profile-khaki.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
 
-<img align=left alt="Adam Henriksson's Github stats" src="https://github-readme-stats.vercel.app/api?username=Adamih&show_icons=true" />
+<br />
+<br />
+
+---
+<details>
+    <summary>:zap: Github Stats</summary>
+    <img align=left alt="Adamih's Github stats" src="https://github-readme-stats.vercel.app/api?username=Adamih&show_icons=true" />
+</details>
 
 [twitter]: https://twitter.com/AdamHenriksson5/
 [linkedin]: https://www.linkedin.com/in/adahen/
