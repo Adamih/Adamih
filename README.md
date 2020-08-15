@@ -14,16 +14,17 @@
     <img src="https://now-playing-profile-khaki.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
 </a>
 
+<br />
+<br />
+
+---
+
 ### Connect with me:
 
 [<img align="left" alt="Adam Henriksson | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Adam Henriksson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Adam Henriksson | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-<br />
-
----
 ### Language and Tools:
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
