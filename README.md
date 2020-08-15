@@ -41,6 +41,7 @@
 ---
 <details>
     <summary>:zap: Github Stats</summary>
+    <br />
     <img align=left alt="Adamih's Github stats" src="https://github-readme-stats.vercel.app/api?username=Adamih&show_icons=true" />
 </details>
 
