@@ -10,6 +10,13 @@
     * Advertise
 - 💡 Fun fact: I love chess and board games 🎲
 
+<br />
+<br />
+
+<a href="https://now-playing-profile-khaki.vercel.app/now-playing?open">
+    <img src="https://now-playing-profile-khaki.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
+
 ### Connect with me:
 
 [<img align="left" alt="Adam Henriksson | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -28,13 +35,6 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
 <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/deno/deno.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
-
-<br />
-<br />
-
-<a href="https://now-playing-profile-khaki.vercel.app/now-playing?open">
-    <img src="https://now-playing-profile-khaki.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
 
 <br />
 <br />
