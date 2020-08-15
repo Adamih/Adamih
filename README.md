@@ -33,6 +33,12 @@
 <br />
 
 ---
+
+<details>
+   <summary>:zap: Recent Activity</summary>
+    <!--START_SECTION:activity-->
+</details>
+
 <details>
    <summary>:zap: Github Stats</summary>
 <img align=left alt="Adam Henriksson's Github stats" src="https://github-readme-stats.vercel.app/api?username=Adamih&show_icons=true&hide_border=true&bg_color=fff" />
