@@ -1,6 +1,6 @@
 ### Hi there, i'm Adam 👋
 
-## I'm a student developer at KTH - Royal Institute of Technology
+## I'm a student developer at KTH Royal Institute of Technology
 
 - 🌱 I'm currently learning everything
 - 👷 Working on personal and engaging projects
@@ -9,16 +9,6 @@
     * Contribute to open source
     * Advertise
 - 💡 Fun fact: I love chess and board games 🎲
-
-### Here is some nice music to vibe to: 
-
- <div data-video="GvesyESp9UE"
-         data-autoplay="0"
-         data-loop="1"
-         id="youtube-audio">
-  </div>
-  <script src="https://www.youtube.com/iframe_api"></script>
-  <script src="https://cdn.rawgit.com/labnol/files/master/yt.js"></script>
 
 ### Currently I am listening to:
 
