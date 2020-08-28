@@ -10,6 +10,16 @@
     * Advertise
 - 💡 Fun fact: I love chess and board games 🎲
 
+### Here is some nice music to vibe to: 
+
+ <div data-video="GvesyESp9UE"
+         data-autoplay="0"
+         data-loop="1"
+         id="youtube-audio">
+  </div>
+  <script src="https://www.youtube.com/iframe_api"></script>
+  <script src="https://cdn.rawgit.com/labnol/files/master/yt.js"></script>
+
 ### Currently I am listening to:
 
 <a href="https://now-playing-profile-khaki.vercel.app/now-playing?open">
