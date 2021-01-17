@@ -36,16 +36,6 @@
 <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/deno/deno.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
 
-<br />
-<br />
-
----
-<details>
-    <summary>:zap: Github Stats</summary>
-    <br />
-    <img align=left alt="Adamih's Github stats" src="https://github-readme-stats.vercel.app/api?username=Adamih&show_icons=true" />
-</details>
-
 [twitter]: https://twitter.com/AdamHenriksson5/
 [linkedin]: https://www.linkedin.com/in/adahen/
 [instagram]: https://www.instagram.com/adamih/
