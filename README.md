@@ -13,7 +13,7 @@
 
 ### List of personal projects
 
-Firechat: A minimalistic Next+firebase chat app hosted on the cloud 
+Firechat: A minimalistic Next+firebase chat app hosted on the cloud  
 https://firechat-f499d.web.app
 
 Please say something! :) (Be nice, and do not swear or you will get banned)
