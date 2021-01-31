@@ -6,7 +6,7 @@
 - 👷 Working on personal and engaging projects
 - 🎯 2020 Goals: 
     * Read new books every month
-    * Contribute to open source
+    * Land an internship in IT
     * Advertise
 - 💡 Fun fact: I love chess and board games 🎲
 
@@ -35,6 +35,9 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
 <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/deno/deno.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
+<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" />
 
 [twitter]: https://twitter.com/AdamHenriksson5/
 [linkedin]: https://www.linkedin.com/in/adahen/
