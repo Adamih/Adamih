@@ -4,10 +4,11 @@
 
 - 🌱 I'm currently learning everything
 - 👷 Working on personal and engaging projects
-- 🎯 2020 Goals: 
+- 🎯 2021 Goals: 
     * Read new books every month
     * Land an internship in IT
-    * Advertise
+    * Finish projects faster
+    * Design a platform for myself
 - 💡 Fun fact: I love chess and board games 🎲
 
 ### List of personal projects
