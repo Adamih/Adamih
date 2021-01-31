@@ -10,6 +10,13 @@
     * Advertise
 - 💡 Fun fact: I love chess and board games 🎲
 
+### List of personal projects
+
+Firechat: A minimalistic Next+firebase chat app hosted on the cloud 
+https://firechat-f499d.web.app
+
+Please say something! :) (Be nice, and do not swear or you will get banned)
+
 ### Currently I am listening to:
 
 <a href="https://now-playing-profile-khaki.vercel.app/now-playing?open">
