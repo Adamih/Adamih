@@ -27,9 +27,7 @@ https://codepen.io/adamih
 ---
 
 ### Connect with me:
-[<img align="left" alt="Adam Henriksson | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />][twitter]
 [<img align="left" alt="Adam Henriksson | LinkedIn" width="22px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />][linkedin]
-[<img align="left" alt="Adam Henriksson | Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 
 <br />
 
