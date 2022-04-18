@@ -3,12 +3,9 @@
 ## I'm a student developer at KTH Royal Institute of Technology
 
 - 🌱 I'm currently learning everything
-- 👷 Working on personal and engaging projects
+- 👷 Working on finishing my degree ASAP
 - 🎯 2022 Goals: 
     * Read new books every month
-    * Finish projects faster
-    * Land an internship in IT
-    * Collaborate more with people
 - 💡 Fun fact: I love chess and board games 🎲
 
 ### List of personal projects
@@ -48,6 +45,4 @@ https://codepen.io/adamih
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
 <img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" />
 
-[twitter]: https://twitter.com/AdamHenriksson5/
 [linkedin]: https://www.linkedin.com/in/adahen/
-[instagram]: https://www.instagram.com/adamih/
