@@ -1,11 +1,11 @@
-### Hi there, i'm Adam 👋
+### Hi there, I'm Adam 👋
 
 ## I'm a student developer at KTH Royal Institute of Technology
 
 - 🌱 I'm currently learning everything
 - 👷 Working on finishing my degree ASAP
-- 🎯 2022 Goals: 
-    * Read new books every month
+- 🎯 2024 Goals: 
+    * Finish my Master's thesis
 - 💡 Fun fact: I love chess and board games 🎲
 
 ### List of personal projects
@@ -15,7 +15,7 @@ https://firechat-f499d.web.app
 
 Please say something! :) (Be nice, and do not swear or you will get banned)
 
-Designs: Sometimes i get inspired and make something simple and fun. 
+Designs: Sometimes I get inspired and make something simple and fun. 
 https://codepen.io/adamih
 
 ### Currently I am listening to:
