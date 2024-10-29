@@ -15,8 +15,8 @@ https://firechat-f499d.web.app
 
 Please say something! :) (Be nice, and do not swear or you will get banned)
 
-Designs: Sometimes I get inspired and make something simple and fun. 
-https://codepen.io/adamih
+<!--- Designs: Sometimes I get inspired and make something simple and fun. 
+https://codepen.io/adamih -->
 
 ### Currently I am listening to:
 
