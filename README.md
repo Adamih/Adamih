@@ -2,10 +2,10 @@
 
 ## I'm a student developer at KTH Royal Institute of Technology
 
-- 🌱 I'm currently learning everything
-- 👷 Working on finishing my degree ASAP
-- 🎯 2024 Goals: 
-    * Finish my Master's thesis
+- 🌱 I'm currently learning Stripe & Stripe Connect for marketplaces.  
+- 👷 I'm currently working on finalizing my thesis and on building challenging full-stack projects
+- 🎯 2025 Goals: 
+    * Get hired as a full-stack web developer
 - 💡 Fun fact: I love chess and board games 🎲
 
 ### List of personal projects
